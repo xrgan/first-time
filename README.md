@@ -1,2 +1,2 @@
 # first-time
-CapsWriter-Offline项目的尝试
+基于CapsWriter-Offline项目的初次git仓库尝试
